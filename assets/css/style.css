@@ -1,0 +1,27 @@
+body{
+    text-align: center; background-color: rgb(196, 230, 230);
+}
+
+img{
+    max-width: 200px;
+   max-width: 200px;
+}
+ 
+ .tudo{  
+    border:2px solid DodgerBlue; 
+
+ }
+
+.esquerda {			 
+	width: 30%;
+	height:100px;
+	float: left; 
+	background-color: rgb(196, 230, 230); 
+	color: #130808;
+}
+.direita { 
+	width: 70%;
+	height: 100px;
+	float:left; 
+	background-color: rgb(196, 230, 230); 
+}
