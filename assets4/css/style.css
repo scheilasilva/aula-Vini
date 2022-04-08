@@ -1,0 +1,68 @@
+.tudo{
+    width: 60%;
+    margin: 0 auto;
+    padding: 30px 30px 30px 30px;
+    text-align: center;
+    border: solid 1px rgb(36, 36, 73);
+}
+.linha{
+    clear: both;
+}
+h1{
+    background-color: rgb(36, 36, 73);
+    color: rgb(247, 247, 243);
+    padding: 10px 20px 10px 20px;
+} 
+#foto{
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+#imgfoto {
+    max-width: 200px;
+    max-height: 300px;
+    border-radius: 50%;
+}
+#dados{
+    width: 70%;
+    float: left;
+    text-align: left;
+    font-size: 20px;
+}
+.textoDados{
+    color: rgb(36, 36, 73);
+    font-weight: bold;
+}
+h2{
+    color: rgb(36, 36, 73);
+    text-align: left;
+}
+hr{
+    color: rgb(36, 36, 73);
+}
+p{
+    text-align: left;
+}
+h4{
+    text-align: left;
+}
+#coluna1{
+    float: left;
+    width: 48%;
+    padding-left: 10px;
+}
+#coluna2{
+    float: left;
+    background-color: rgb(36, 36, 73);
+    width: 1px;
+    height: 100px;
+}
+#coluna3{
+    float:left ;
+    width: 48%;
+    padding-left: 10px;
+}
+h3{
+    text-align: left;
+    color: rgb(36, 36, 73);
+}
