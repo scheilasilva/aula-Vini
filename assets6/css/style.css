@@ -1,0 +1,76 @@
+*{
+    margin: 0 auto;
+}
+body{
+    background-color: #e2e2e2;
+}
+.divTudo{
+    font-family: Arial, sans-serif;
+}
+.divLinha{
+    clear: both;
+}
+.h2TituloSessao{
+    font-size: 20px;
+}
+#divCabecalho{
+    background-color: #162e5b;
+    min-height: 100px;
+    padding: 20px 50px 20px 50px;
+}
+
+#h1TituloCabecalho{
+    color: #ffffff;
+    font-size: 16px ;
+    float: left ;
+    min-width: 50%;
+    text-align: left;
+}
+#divClassificacao{
+    width: 50%;
+    background-color: #ffffff;
+}
+#tableClassificacao{
+    width: 100%;
+    background-color: #ffffff;
+}
+#h3TituloGrupo{
+    font-size: 14px;
+}
+
+td,th{
+    border: solid 1px ;
+}
+#divGoleadores{
+    width: 50%;
+    background-color: #fff;
+
+}
+
+#tableGoleadores{
+    width: 100%;
+    background-color: #ffffff;
+}
+
+#divJogos{
+    width: 50%;
+    
+}
+
+
+#tableJogos{
+    width: 100%;
+    background-color: #ffffff;
+}
+#Foto{
+    max-width: 20px;
+    max-height: 20px;
+}
+#img{
+padding: 5px;
+}
+ 
+#FotoGols{
+    max-width: 10px;
+    max-height: 10px;
+}
